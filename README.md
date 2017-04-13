@@ -1,6 +1,6 @@
 # news-classifier
 
-<p>In this project we are going to classify news headlines by using <b>Multinomial Naive Bayes</b> and <b> Bag of Words</b>model</p>
+<p>In this project we are going to classify news headlines by using <b>Multinomial Naive Bayes</b> and <b> Bag of Words</b> model</p>
 
 <h3>Datasets</h3>
 <ul>
